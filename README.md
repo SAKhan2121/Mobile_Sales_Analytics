@@ -83,4 +83,5 @@ The dashboard provides key business insights including:
  
  🖼️ Dashboard_Screenshot.png - (https://github.com/SAKhan2121/Mobile_Sales_Analytics/blob/main/image.png)
  
+<img width="1322" height="744" alt="image" src="https://github.com/user-attachments/assets/65c3aa69-a432-4415-bcf3-80dc6dbe6768" />
 
