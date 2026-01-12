@@ -81,6 +81,6 @@ The dashboard provides key business insights including:
 
 📦 Power-BI-Sales-Dashboard
  ┣ 📊 Sales_Dashboard.pbix - 
- ┣ 🖼️ Dashboard_Screenshot.png
+ ┣ 🖼️ Dashboard_Screenshot.png - (https://github.com/SAKhan2121/Mobile_Sales_Analytics/blob/main/image.png)
  ┗ 📄 README.md
 
