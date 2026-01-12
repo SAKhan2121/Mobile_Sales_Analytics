@@ -1,2 +1,81 @@
-# Mobile_Sales_Analytics
-This project is an interactive Sales Analytics Dashboard built using Microsoft Power BI. The dashboard provides a complete overview of sales performance, customer behavior, payment methods, brand-wise analysis, and geographic distribution across India.
+# 📊 Power BI Mobile Sales Analytics Dashboard!
+
+This repository contains an interactive **Sales Dashboard created using Microsoft Power BI**, designed to analyze sales data across multiple dimensions such as time, geography, brands, payment methods, and customer ratings.
+
+---
+
+## 🚀 Project Overview
+
+The dashboard provides key business insights including:
+
+- Total Sales Performance
+- Total Quantity Sold
+- Number of Transactions
+- Average Sales Value
+- Monthly & Quarterly Trends
+- Brand-wise and Model-wise Analysis
+- Payment Method Distribution
+- Customer Ratings
+- Sales by Day Name
+- Geographic Sales Distribution (India Map)
+
+---
+
+## 🧠 Key Features
+
+### 🔹 KPI Cards
+- **Total Sales**: 69M  
+- **Total Quantity**: 2K  
+- **Transactions**: 324  
+- **Average Sales**: 40K  
+
+### 🔹 Time Analysis
+- Quarterly sales trend (2022–2024)
+- Monthly slicer for dynamic filtering
+- Sales by day of the week
+
+### 🔹 Product Analysis
+- Sales by mobile models (Vivo S1, Vivo V20, iPhone 11)
+- Brand-wise comparison (Apple, Samsung, Vivo, Xiaomi, OnePlus)
+
+### 🔹 Payment Insights
+- Debit Card
+- Credit Card
+- UPI
+- Cash
+
+### 🔹 Customer Insights
+- Customer ratings distribution
+- Transaction-based behavior analysis
+
+### 🔹 Geographic Analysis
+- Sales distribution across India using map visualization
+
+---
+
+## 🗂️ Dashboard Components
+
+- KPI Cards
+- Line Chart
+- Bar Chart
+- Area Chart
+- Pie Chart
+- Funnel Chart
+- Map Visualization
+- Table with Totals
+- Slicers (Month-wise filtering)
+
+---
+
+## 🛠️ Tools & Technologies Used
+
+- **Microsoft Power BI**
+- Power Query (Data Transformation)
+- DAX (Calculated Measures)
+- Data Modeling
+- Interactive Visualizations
+
+---
+
+## 📁 Files Included
+
