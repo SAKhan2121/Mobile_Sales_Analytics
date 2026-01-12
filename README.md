@@ -75,7 +75,5 @@ The dashboard provides key business insights including:
 - Data Modeling
 - Interactive Visualizations
 
----
 
-## 📁 Files Included
 
