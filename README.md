@@ -75,5 +75,12 @@ The dashboard provides key business insights including:
 - Data Modeling
 - Interactive Visualizations
 
+--- 
 
+## 📁 Files Included
+
+📦 Power-BI-Sales-Dashboard
+ ┣ 📊 Sales_Dashboard.pbix - 
+ ┣ 🖼️ Dashboard_Screenshot.png
+ ┗ 📄 README.md
 
