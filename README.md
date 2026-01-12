@@ -24,10 +24,10 @@ The dashboard provides key business insights including:
 ## 🧠 Key Features
 
 ### 🔹 KPI Cards
-- **Total Sales**: 69M  
-- **Total Quantity**: 2K  
-- **Transactions**: 324  
-- **Average Sales**: 40K  
+- **Total Sales**
+- **Total Quantity** 
+- **Transactions**
+- **Average Sales** 
 
 ### 🔹 Time Analysis
 - Quarterly sales trend (2022–2024)
